@@ -1,2 +1,2 @@
 # Bioinformatics
-Bioinformatics workshop for biogical data analysis
+Bioinformatics for biogical data analysis
